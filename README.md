@@ -6,3 +6,6 @@ Water policy · climate-resilient systems · AI-driven policy analysis.
 
 Building open-source tools for researchers and policymakers
 to work with Korean public data through LLMs.
+
+## Contact
+- [hanhj@kei.re.kr](mailto:hanhj@kei.re.kr)
